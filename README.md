@@ -11,6 +11,7 @@
 </dependency>
 
 ### build下的plugins中
+```
 <plugin>
 	<groupId>com.github.weikaidai</groupId>
 	<artifactId>erm-mbg-maven-plugin</artifactId>
@@ -30,4 +31,4 @@
 		</execution>
 	</executions>
 </plugin>
-
+```
