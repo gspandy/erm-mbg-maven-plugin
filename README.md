@@ -4,11 +4,13 @@
 ## 使用
 自己的maven项目中引入相关依赖
 ### dependencies中
+```
 <dependency>
-	<groupId>tk.mybatis</groupId>
-	<artifactId>mapper</artifactId>
-	<version>3.5.3</version>
+  <groupId>tk.mybatis</groupId>
+  <artifactId>mapper</artifactId>
+  <version>3.5.3</version>
 </dependency>
+```
 
 ### build下的plugins中
 ```
